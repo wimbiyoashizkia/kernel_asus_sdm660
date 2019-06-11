@@ -1405,6 +1405,16 @@ config SCHED_TUNE
 
 	  If unsure, say N.
 
+config CPUSETS_ASSIST
+	bool "Cpusets configuration helper"
+	depends on CPUSETS
+	depends on ANDROID
+	help
+	  This option enables the configuration of default cpusets
+	  parameters from kernel.
+
+	  If unsure, say N.
+
 config UCLAMP_ASSIST
 	bool "UClamp configuration helper"
 	depends on CPUSETS && ANDROID && UCLAMP_TASK && UCLAMP_TASK_GROUP
