@@ -22,3 +22,7 @@
 ## Device picture
 
 ![ASUS ZenFone Max Pro (M1)](https://i-cdn.phonearena.com/images/articles/320775-image/Asus-ZenFone-Max-Pro-M1.jpg)
+
+## Credits
+
+- @travarilo for Source Kernel (Based on Darkonah Kernel)
