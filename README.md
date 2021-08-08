@@ -1,5 +1,5 @@
 # ASUS ZenFone Max Pro (M1)
-
+The ASUS ZenFone Max Pro (M1) (codenamed "X00T") is mid-range smartphone from ASUS. It was announced in April 2018, with 3/4 GB RAM variants released in May 2018 and 6 GB RAM variant released in July 2018.
 
 ## Device specifications
 
